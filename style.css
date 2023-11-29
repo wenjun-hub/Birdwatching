@@ -56,7 +56,7 @@ header {
   flex-flow: row wrap;
 }
 
-body {
+body > * {
   background-color: #29E929;  
   padding: 1%;
 }
