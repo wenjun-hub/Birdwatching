@@ -7,10 +7,9 @@ html, body {
 
 html {
   font-size: 10px;
-  background-color: #29E929;  
-
+  background-color: #a9a9a9;
 }
-  /* #a9a9a9; */
+
 body {
   width: 70%;
   min-width: 800px;
